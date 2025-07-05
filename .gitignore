@@ -1,0 +1,13 @@
+node_modules
+dist
+coverage
+.DS_Store
+.env
+npm-debug.log
+# Logs
+logs
+package-lock.json
+yarn-error.log
+.vscode
+.idea
+# Dependency directories
